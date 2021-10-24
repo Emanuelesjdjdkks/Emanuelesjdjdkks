@@ -6,4 +6,5 @@
 
 <!---
 Emanuelesjdjdkks/Emanuelesjdjdkks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look 
+Puoi fare clic sul collegamento Anteprima per dare un'occhiata 
+grazie
